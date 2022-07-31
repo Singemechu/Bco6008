@@ -1,0 +1,12 @@
+---
+title: "First script(workshop 1)"
+author: "Sinidu"
+date: "2022-07-31"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Install packages
